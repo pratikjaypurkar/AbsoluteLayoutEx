@@ -1,0 +1,30 @@
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name : Pratik"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:layout_x="1dp"
+        android:layout_y="2dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Age : 19"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:layout_x="3dp"
+        android:layout_y="30dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mobile No. : 123456789"
+        android:textColor="@color/black"
+        android:textSize="25dp"
+        android:layout_x="1dp"
+        android:layout_y="60dp"/>
+</AbsoluteLayout>
